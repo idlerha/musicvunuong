@@ -25,14 +25,6 @@ Chào mừng mày đến với kho lưu trữ của **Music Vũ Nương**! Một
 
 ---
 
-## Lệnh, Mô tả
-**vn!choi [Link],Thêm bài vào hàng chờ hoặc phát ngay.
-**vn!skip,Bỏ qua bài hiện tại (Tự tắt lặp nếu đang bật).
-**vn!laplai,Bật/Tắt lặp lại duy nhất bài đang phát.
-**vn!laplaihangcho,Bật/Tắt lặp lại toàn bộ danh sách.
-**vn!cut,Đuổi bot ra khỏi kênh voice và xóa sạch hàng chờ.
-**vn!help,"Hiện bảng hướng dẫn sử dụng ""hồng cánh sen""."
-
 ## ⚙️ Hướng Dẫn Chạy Bot
 Clone project:
 ```
