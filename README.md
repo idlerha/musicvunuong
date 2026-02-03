@@ -43,7 +43,9 @@ Vào folder:
 cd musicvunuong
 ```
 Cấu hình: Mở file code lên, kéo xuống cuối cùng và thay token của mày vào:
-```bot.run('TOKEN')```
+```
+bot.run('TOKEN')
+```
 Tải thư viện cần thiết:
 ```
 pip install -r requirements.txt
