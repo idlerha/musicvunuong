@@ -6,15 +6,12 @@ Chào mừng mày đến với kho lưu trữ của **Music Vũ Nương**! Một
 
 ## 🚀 Tính Năng Chính
 
-* **Phát nhạc YouTube:** Tải và phát âm thanh chất lượng cao bằng `pytubefix`.
+* **Phát nhạc YouTube:** Phát âm thanh.
 * **Hàng chờ thông minh:** Tự động xếp hàng bài hát khi đang phát.
 * **Chế độ lặp đa dạng:**
     * `Mode 1`: Lặp lại duy nhất 1 bài (Single Loop).
     * `Mode 2`: Lặp lại cả danh sách chờ (Queue Loop).
-* **Giao diện Embed:** Bảng hướng dẫn màu hồng cánh sen cực cháy.
-* **Tự động dọn dẹp:** Xóa file nhạc sau khi phát để không làm đầy bộ nhớ máy chủ.
-
----
+    
 
 ## 🛠️ Yêu Cầu Cài Đặt
 
@@ -39,7 +36,7 @@ vn!help,"Hiện bảng hướng dẫn sử dụng ""hồng cánh sen""."
 ## ⚙️ Hướng Dẫn Chạy Bot
 Clone project:
 ```
-git clone [https://github.com/your-username/musicvunuong.git](https://github.com/idlerha/musicvunuong.git)
+git clone https://github.com/idlerha/musicvunuong.git
 ```
 Vào folder:
 ```
